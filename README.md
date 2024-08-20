@@ -1,7 +1,7 @@
 # BPMN Communication Example
 This is an example documents the communication between four BPMN processes which together will produce a nice coffee for someone.
 
-![theModel](./Coffee%20Order.svg)
+![theModel](./processCommunicationExample.gif)
 
 It utilizes the following symbols some throwing 🖐 and catching ✊.  for communication. 
 
