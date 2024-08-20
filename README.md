@@ -1,2 +1,13 @@
-# BPMN-Communication-Example
-This is an example of a BPMN process which documents those involved in ordering, makeing and devliering a coffee in a Cafe
+# BPMN Communication Example
+This is an example documents the communication between four BPMN processes which together will produce a nice coffee for someone.
+
+![theModel](./Coffee%20Order.svg)
+
+It utilizes the following symbols some throwing 🖐 and catching ✊.  for communication. 
+
+* Message ( 🖐 ✊ ) events
+* Message ( 🖐 ✊ ) tasks
+* Signal events ( 🖐 ✊ )
+* Compensation ( 🖐 ✊ ) events
+* Compensation task
+* Escalation event ( ✊ )
